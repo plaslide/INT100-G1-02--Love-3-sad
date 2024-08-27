@@ -35,7 +35,8 @@
 *กิน
 
 รูป :
-img
+
+![S__475141](https://github.com/user-attachments/assets/45e31889-9479-499e-ac35-203273be7ab8)
 
 ชื่อ : นายวัระพัตน์ ชิวปรีชา
 
