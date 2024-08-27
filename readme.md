@@ -98,7 +98,9 @@
 *ต่อโมเดล
 
 รูป :
-img
+
+![S__23420940](https://github.com/user-attachments/assets/b2f2914d-80e4-47bb-a9d5-0e8dd6da2a44)
+
 
 ชื่อ : นางสาวชนากานต์ สังข์ป้อม
 
