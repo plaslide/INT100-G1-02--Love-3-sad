@@ -166,7 +166,7 @@ POV (point of view)
  
  Journey map 
 
-
+![Screenshot 2024-09-25 173139.png](https://github.com/user-attachments/assets/d854fb0e-538c-4401-9bc6-5c6e7811d37d)
  
 To Do
 
