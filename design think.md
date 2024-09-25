@@ -28,7 +28,7 @@ User persona
 
  Journey map 
 
- ![Screenshot 2024-09-02 081330](https://github.com/user-attachments/assets/d854fb0e-538c-4401-9bc6-5c6e7811d37d)
+![img1](https://github.com/Bhirapat/img/blob/main/Screenshot%202024-09-25%20180214.png)
 
 To Do
 
@@ -97,7 +97,7 @@ POV (point of view)
 
  Journey map 
 
- ![Screenshot 2024-09-02 081330](https://github.com/user-attachments/assets/d854fb0e-538c-4401-9bc6-5c6e7811d37d)
+![img2](https://github.com/Bhirapat/img/blob/main/Screenshot%202024-09-25%20180059.png)
 
 To Do
 
@@ -166,7 +166,7 @@ POV (point of view)
  
  Journey map 
  
-![img](https://github.com/Bhirapat/img/blob/main/Screenshot%202024-09-25%20173139.png) 
+![img3](https://github.com/Bhirapat/img/blob/main/Screenshot%202024-09-25%20173139.png) 
 
 To Do
 
