@@ -166,7 +166,7 @@ POV (point of view)
  
  Journey map 
  
-![img3](https://github.com/Bhirapat/img/blob/main/Screenshot%202024-09-25%20173139.png) 
+![img3](https://github.com/Bhirapat/img/blob/main/Screenshot%202024-09-25%20175802.png) 
 
 To Do
 
