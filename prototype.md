@@ -5,7 +5,11 @@
     <img src="https://github.com/Bhirapat/img/blob/main/compahomepage.png" alt="compahp" width="193" style="margin: 0 10px;">
 </div>
 
+
 อันนี้จะเป็นหน้าต่าง การ login และ Homepage ของ application schedule ของเรานะครับ มีแยก 2 ฝ่าย คือแบบของ user กับ company
+
+อันนี้จะเป็นหน้าต่าง การ login และ Homepage ของ application schedule ของเรานะครับ
+
 
 <h2>หน้าต่าง Company</h2>
 
